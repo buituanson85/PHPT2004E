@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="61de923e-e3ed-41ec-9346-ce67dc513c8b" name="demo" url="http://localhost:8080/PHPT2004E">
+        <fileTransfer mountedRoot="D:\Setup\Xampp\htdocs\PHPT2004E" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>

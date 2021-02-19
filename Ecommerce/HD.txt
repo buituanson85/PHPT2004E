@@ -1,0 +1,12 @@
+1.Category
+- Vegetables Rau
+- Fresh Berries Quả mọng tươi
+- Butter & Eggs Bơ & trứng
+- Fastfood Thức ăn nhanh
+- Fresh Meat Thịt tươi sống
+- Fresh Onion Hành tươi
+- Papaya & Crisps Đu đủ & giòn
+- Oatmeal Cháo bột yến mạch
+
+
+
